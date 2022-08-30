@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Global Payments - SpaceX</string>
+    <string name="select_item_for_details">Select item for details</string>
+    <string name="mission_details">MISSION DETAILS</string>
+    <string name="select_mission_to_view_details">Select Mission to View Details</string>
+</resources>
